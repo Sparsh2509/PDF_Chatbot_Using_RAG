@@ -1,4 +1,4 @@
-# 📄 AI PDF Chatbot using RAG, LangChain, Gemini & Groq
+# 📄 AI PDF Chatbot using RAG
 
 An AI-powered PDF Question Answering application built using **Retrieval-Augmented Generation (RAG)**. Upload any PDF and ask natural language questions about its content. The application retrieves the most relevant document chunks using **FAISS** and generates context-aware responses using **Google Gemini**, with **Groq** as an automatic fallback when Gemini is unavailable or its quota is exhausted.
 
@@ -6,7 +6,7 @@ An AI-powered PDF Question Answering application built using **Retrieval-Augment
 
 ## 🚀 Live Demo
 
-🔗 **Live App:** *https://pdfraglangchaingit-3zkimyfvyxqtgvvdbhjlmx.streamlit.app/*
+🔗 **Live App:** *https://pdfchatbotusingrag-cdqqflkx8mlmfaujkhlnrd.streamlit.app/*
 
 ---
 

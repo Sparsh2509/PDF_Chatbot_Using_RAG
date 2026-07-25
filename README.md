@@ -117,7 +117,3 @@ streamlit run streamlit_app.py
 - Conversation memory
 
 ---
-
-## 👩‍💻 Author
-
-**Dhwani Jain**
